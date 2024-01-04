@@ -4,5 +4,5 @@ As supplied it is written to run under Linux, and was tested on a fast laptop. I
 
 The test data is the word "one" from the en_GB IMBE voice file from the P25 Gateway.
 
-On my laptop the decoding takes less than one millisecond, and encoding typically takes five milliseconds.
+On my laptop the decoding takes less than one millisecond, and encoding typically takes three milliseconds.
 
